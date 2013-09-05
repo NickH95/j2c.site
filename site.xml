@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
    <description name="j2c Updates" url="http://j2c.eclipselabs.org.codespot.com/hg.site/">
+      j2c Update site
    </description>
-   <feature url="features/se.arnetheduck.j2c.feature_0.5.0.qualifier.jar" id="se.arnetheduck.j2c.feature" version="0.5.0.qualifier"/>
+   <feature url="features/se.arnetheduck.j2c.feature_0.5.0.201309052312.jar" id="se.arnetheduck.j2c.feature" version="0.5.0.201309052312"/>
 </site>
